@@ -36,6 +36,6 @@ This website showcases my projects, achievements, skills, and story as I aim to 
 ---
 
 ## 📸 Screenshots
-![Homepage](assets/images/index.png)
+![Homepage](assets/images/homepage.png)
 ![About page](assets/images/about.png)
 ![Projects page](assets/images/projects.png)
