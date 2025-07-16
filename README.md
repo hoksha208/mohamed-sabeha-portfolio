@@ -1,4 +1,4 @@
-![🌟 Mohamed Sabeha Portfolio](assets/images/contact.png)
+# 🌟 Mohamed Sabeha Portfolio
 
 Welcome to my personal portfolio!  
 I'm **Mohamed Hosam el-deen Mohamed Sabeha**, an aspiring web developer and tech entrepreneur from Egypt 🇪🇬.
