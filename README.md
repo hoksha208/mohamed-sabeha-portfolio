@@ -1,4 +1,4 @@
-# 🌟 Mohamed Sabeha Portfolio
+<img width="1275" height="639" alt="image" src="https://github.com/user-attachments/assets/6c14e575-183f-44ab-8d66-7c1f0430a95b" /># 🌟 Mohamed Sabeha Portfolio
 
 Welcome to my personal portfolio!  
 I'm **Mohamed Hosam el-deen Mohamed Sabeha**, an aspiring web developer and tech entrepreneur from Egypt 🇪🇬.
@@ -36,8 +36,6 @@ This website showcases my projects, achievements, skills, and story as I aim to 
 ---
 
 ## 📸 Screenshots
-> *(Add screenshots here to make your repo look more visual!)*
-```html
 ![Homepage](assets/images/homepage.png)
 ![About page](assets/images/about.png)
 ![Projects page](assets/images/projects.png)
